@@ -36,8 +36,8 @@ Visualization:
 ```
 /*
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by:Abinaya A 
-RegisterNumber:212223040003
+Developed by: SHYAM KUMAR E
+RegisterNumber:212223230207
 */
 
 # Import necessary libraries
